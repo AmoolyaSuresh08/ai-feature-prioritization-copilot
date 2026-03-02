@@ -1,0 +1,121 @@
+id,text,source,date
+1,The app crashes when uploading files,app_store,2025-01-01
+2,Please add dark mode for night use,survey,2025-01-02
+3,Google login keeps failing,support,2025-01-03
+4,Dashboard is very slow to load,app_store,2025-01-04
+5,Need export to PDF option,survey,2025-01-05
+6,Notifications are too frequent,support,2025-01-06
+7,Two factor authentication would improve security,app_store,2025-01-07
+8,Password reset link expired too quickly,support,2025-01-08
+9,Mobile app feels laggy,app_store,2025-01-09
+10,Please add Slack integration,survey,2025-01-10
+11,Search results are inaccurate,app_store,2025-01-11
+12,Onboarding process is confusing,survey,2025-01-12
+13,Payment failed during checkout,support,2025-01-13
+14,UI looks outdated,app_store,2025-01-14
+15,Need role based access control,support,2025-01-15
+16,App freezes when switching tabs,app_store,2025-01-16
+17,Would like weekly summary emails,survey,2025-01-17
+18,Bulk upload feature is missing,support,2025-01-18
+19,Dark theme would be amazing,app_store,2025-01-19
+20,Improve dashboard performance,survey,2025-01-20
+21,Login via Google times out,support,2025-01-21
+22,Too many steps in onboarding,survey,2025-01-22
+23,Export to Excel is needed,app_store,2025-01-23
+24,Notifications should be customizable,support,2025-01-24
+25,App crashes on large uploads,app_store,2025-01-25
+26,Dark mode is highly requested,survey,2025-01-26
+27,SSO integration would help enterprises,support,2025-01-27
+28,Dashboard widgets load slowly,app_store,2025-01-28
+29,Need email notification controls,survey,2025-01-29
+30,Search feature needs improvement,support,2025-01-30
+31,Please improve mobile responsiveness,app_store,2025-02-01
+32,Password reset flow is confusing,survey,2025-02-02
+33,Payment gateway is unreliable,support,2025-02-03
+34,Would love dark mode support,app_store,2025-02-04
+35,Reports should export as CSV,survey,2025-02-05
+36,App performance drops during peak time,support,2025-02-06
+37,Need better onboarding guidance,app_store,2025-02-07
+38,Notifications are overwhelming,survey,2025-02-08
+39,Two factor login is required,support,2025-02-09
+40,Google authentication fails randomly,app_store,2025-02-10
+41,Dashboard charts take time to render,survey,2025-02-11
+42,UI feels cluttered,support,2025-02-12
+43,Bulk actions for users would help,app_store,2025-02-13
+44,Mobile experience needs improvement,survey,2025-02-14
+45,Password reset emails delayed,support,2025-02-15
+46,Dark theme for accessibility please,app_store,2025-02-16
+47,Need webhook integrations,survey,2025-02-17
+48,Search indexing seems broken,support,2025-02-18
+49,Checkout flow is too slow,app_store,2025-02-19
+50,Onboarding tutorial should be shorter,survey,2025-02-20
+51,App hangs during file processing,support,2025-02-21
+52,Please add Microsoft login,app_store,2025-02-22
+53,Export features are limited,survey,2025-02-23
+54,Notification settings are confusing,support,2025-02-24
+55,Dark mode urgently needed,app_store,2025-02-25
+56,Dashboard filters are slow,survey,2025-02-26
+57,Need audit logs for security,support,2025-02-27
+58,Search results not relevant,app_store,2025-02-28
+59,Mobile UI breaks on small screens,survey,2025-03-01
+60,Payment retries should be automatic,support,2025-03-02
+61,Improve Google SSO reliability,app_store,2025-03-03
+62,Reports take too long to generate,survey,2025-03-04
+63,Too many notification emails,support,2025-03-05
+64,Add dark theme toggle,app_store,2025-03-06
+65,User permissions are limited,survey,2025-03-07
+66,App crashes on Android sometimes,support,2025-03-08
+67,Need better dashboard UX,app_store,2025-03-09
+68,Search should support filters,survey,2025-03-10
+69,Password reset should be simpler,support,2025-03-11
+70,Dark mode for mobile too,app_store,2025-03-12
+71,Checkout UI is confusing,survey,2025-03-13
+72,Slack alerts would be useful,support,2025-03-14
+73,Performance degrades with large data,app_store,2025-03-15
+74,Notifications should have mute option,survey,2025-03-16
+75,SSO for enterprise customers needed,support,2025-03-17
+76,Dashboard needs faster loading,app_store,2025-03-18
+77,Export to PDF missing,survey,2025-03-19
+78,Search autocomplete would help,support,2025-03-20
+79,Mobile app freezes occasionally,app_store,2025-03-21
+80,Onboarding steps feel long,survey,2025-03-22
+81,Improve login reliability,support,2025-03-23
+82,Dark theme improves readability,app_store,2025-03-24
+83,Payment confirmation is slow,survey,2025-03-25
+84,Need better role management,support,2025-03-26
+85,App crashes when switching accounts,app_store,2025-03-27
+86,Weekly digest emails requested,survey,2025-03-28
+87,Search latency is high,support,2025-03-29
+88,Dashboard should be customizable,app_store,2025-03-30
+89,Notifications need priority levels,survey,2025-03-31
+90,Google login loop issue,support,2025-04-01
+91,Dark mode still missing,app_store,2025-04-02
+92,Export workflow is confusing,survey,2025-04-03
+93,Mobile scrolling is laggy,support,2025-04-04
+94,Improve chart rendering speed,app_store,2025-04-05
+95,Need better help documentation,survey,2025-04-06
+96,Password reset UX poor,support,2025-04-07
+97,Add keyboard shortcuts,app_store,2025-04-08
+98,Notifications should be grouped,survey,2025-04-09
+99,SSO setup is complex,support,2025-04-10
+100,Dashboard takes time to refresh,app_store,2025-04-11
+101,Dark theme highly requested again,survey,2025-04-12
+102,Search indexing delay,support,2025-04-13
+103,Checkout sometimes fails,app_store,2025-04-14
+104,Need bulk user import,survey,2025-04-15
+105,Improve onboarding clarity,support,2025-04-16
+106,Mobile UI inconsistent,app_store,2025-04-17
+107,Notifications too noisy,survey,2025-04-18
+108,Add MFA support,support,2025-04-19
+109,Reports should be faster,app_store,2025-04-20
+110,Search needs fuzzy matching,survey,2025-04-21
+111,Login page slow to load,support,2025-04-22
+112,Dark mode toggle missing still,app_store,2025-04-23
+113,Export to Excel broken,survey,2025-04-24
+114,Dashboard UI cluttered,support,2025-04-25
+115,Improve performance overall,app_store,2025-04-26
+116,Need API access for integrations,survey,2025-04-27
+117,Password reset email not received,support,2025-04-28
+118,Mobile performance poor,app_store,2025-04-29
+119,Notifications should be smarter,survey,2025-04-30
+120,Google login reliability issues again,support,2025-05-01

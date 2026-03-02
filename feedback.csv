@@ -1,0 +1,11 @@
+id,date,source,text
+1,2026-03-01,app_store,"App crashes when I upload photos."
+2,2026-03-01,app_store,"Photo upload fails and the app closes."
+3,2026-03-02,support,"I can't login using Google sign-in."
+4,2026-03-02,support,"Login keeps looping back to the sign-in page."
+5,2026-03-03,app_store,"Please add dark mode."
+6,2026-03-03,survey,"Dark mode would be amazing for night use."
+7,2026-03-04,support,"Payment failed but money got deducted."
+8,2026-03-04,support,"Checkout error during card payment."
+9,2026-03-05,app_store,"Notifications are delayed."
+10,2026-03-05,survey,"Reminder notifications come too late."
